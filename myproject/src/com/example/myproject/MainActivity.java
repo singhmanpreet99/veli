@@ -10,11 +10,9 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //hello comment hai yar
-        //yooyoyoyoy
         
-        
- //chuu hcuachaucsasasad      
+        int i=10;
+        int b=1000;
     }
 
     @Override
